@@ -1,0 +1,4 @@
+useragent : *
+allow : /
+
+sitemap : https://tuncvural.com.tr/sitemap.xml
